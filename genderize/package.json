@@ -19,8 +19,5 @@
   "bugs": {
     "url": "https://github.com/Kukdoku/genderize/issues"
   },
-  "homepage": "https://github.com/Kukdoku/genderize#readme",
-  "dependencies": {
-    "axios": "^0.26.1"
-  }
+  "homepage": "https://github.com/Kukdoku/genderize#readme"
 }
