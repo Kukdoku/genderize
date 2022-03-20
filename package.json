@@ -1,0 +1,26 @@
+{
+  "name": "genderize",
+  "version": "1.0.0",
+  "description": "You can get gender using their name",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kukdoku/genderize.git"
+  },
+  "keywords": [
+    "(ISC)",
+    "MIT"
+  ],
+  "author": "TECH 9-ON",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Kukdoku/genderize/issues"
+  },
+  "homepage": "https://github.com/Kukdoku/genderize#readme",
+  "dependencies": {
+    "axios": "^0.26.1"
+  }
+}
